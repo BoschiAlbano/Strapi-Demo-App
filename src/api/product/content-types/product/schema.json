@@ -18,12 +18,12 @@
       "unique": true
     },
     "image": {
-      "allowedTypes": [
-        "images"
-      ],
       "type": "media",
       "multiple": false,
-      "private": true
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
     }
   }
 }
